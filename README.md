@@ -8,3 +8,5 @@ Depending on the size and design of your farm this may or may not work.
 Sleep, (amount of time x 1000) #Each second is 1000, 10 seconds would be 10000
 	
 This Macro works on a vertical netherwart farm and takes 28 seconds to go from one side to the other. If you want to change the amount of time spent running and holding down left clickthen change 28000 to a different amount of time, more information above.
+
+Netherwart and Macro have the same code just there in case there are any issues with the other
